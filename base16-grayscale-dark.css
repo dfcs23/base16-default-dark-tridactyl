@@ -1,5 +1,5 @@
 :root {
-  --default-background: #101010;
+  --default-background: #09090b;
   --default-foreground: #f7f7f7;
   --default-current-line: #525252;
   --default-comment: #b9b9b9;
@@ -16,8 +16,8 @@
   /* Generic */
   --tridactyl-font-family: Hack Nerd Font;
   --tridactyl-font-family-sans: Hack Nerd Font;
-  --tridactyl-font-size: 11px;
-  --tridactyl-small-font-size: 11px;
+  --tridactyl-font-size: 10px;
+  --tridactyl-small-font-size: 10px;
   --tridactyl-bg: var(--default-background);
   --tridactyl-fg: var(--default-comment);
   --tridactyl-scrollbar-color: auto;
