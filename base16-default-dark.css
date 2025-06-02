@@ -16,8 +16,8 @@
   /* Generic */
   --tridactyl-font-family: Hack Nerd Font;
   --tridactyl-font-family-sans: Hack Nerd Font;
-  --tridactyl-font-size: 9px;
-  --tridactyl-small-font-size: 9px;
+  --tridactyl-font-size: 8px;
+  --tridactyl-small-font-size: 8px;
   --tridactyl-bg: var(--default-background);
   --tridactyl-fg: var(--default-comment);
   --tridactyl-scrollbar-color: auto;
@@ -70,7 +70,7 @@
   --tridactyl-header-first-bg: #282828; /* Fondo del título del menú */
   --tridactyl-header-second-bg: #282828; /* Fondo del título del menú */
   --tridactyl-header-third-bg: #282828; /* Fondo del título del menú */
-  --tridactyl-header-font-size: 11px; /* Ajusta el tamaño de la fuente del título */
+  --tridactyl-header-font-size: 9px; /* Ajusta el tamaño de la fuente del título */
   --tridactyl-header-font-weight: normal; /* Quita la negrita */
   --tridactyl-header-color: var(--default-foreground); /* Color del texto del título */
 
