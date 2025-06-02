@@ -16,8 +16,8 @@
   /* Generic */
   --tridactyl-font-family: Hack Nerd Font;
   --tridactyl-font-family-sans: Hack Nerd Font;
-  --tridactyl-font-size: 9px;
-  --tridactyl-small-font-size: 9px;
+  --tridactyl-font-size: 10px;
+  --tridactyl-small-font-size: 10px;
   --tridactyl-bg: var(--default-background);
   --tridactyl-fg: var(--default-comment);
   --tridactyl-scrollbar-color: auto;
@@ -56,7 +56,7 @@
   --tridactyl-cmdl-fg: #999999;
   --tridactyl-cmdl-line-height: 1.6;
   --tridactyl-cmdl-font-family: Hack Nerd Font;
-  --tridactyl-cmdl-font-size: 9px;
+  --tridactyl-cmdl-font-size: 10px;
 
   /* Completions */
   --tridactyl-cmplt-option-height: 1.4em;
@@ -70,7 +70,7 @@
   --tridactyl-header-first-bg: #282828;
   --tridactyl-header-second-bg: #282828;
   --tridactyl-header-third-bg: #282828;
-  --tridactyl-header-font-size: 9px;
+  --tridactyl-header-font-size: 10px;
   --tridactyl-header-font-weight: normal;
   --tridactyl-header-color: var(--default-foreground);
 
