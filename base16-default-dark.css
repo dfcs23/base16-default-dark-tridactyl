@@ -24,7 +24,7 @@
 
   /* Mode Indicator */
   --tridactyl-status-font-family: var(--tridactyl-font-family);
-  --tridactyl-status-font-size: var(--tridactyl-small-font-size);
+  --tridactyl-status-font-size: 8px;
   --tridactyl-status-bg: none;
   --tridactyl-status-fg: var(--default-foreground);
   --tridactyl-status-border: 0;
@@ -32,7 +32,7 @@
 
   /* Hint Character Tags */
   --tridactyl-hintspan-font-family: var(--tridactyl-font-family);
-  --tridactyl-hintspan-font-size: var(--tridactyl-small-font-size);
+  --tridactyl-hintspan-font-size: 8px;
   --tridactyl-hintspan-font-weight: bold;
   --tridactyl-hintspan-fg: var(--default-black);
   --tridactyl-hintspan-bg: var(--default-green);
@@ -52,31 +52,31 @@
   --tridactyl-vs-font-family: var(--tridactyl-font-family);
 
   /* Commandline */
-  --tridactyl-cmdl-bg: #101010; /* Fondo del espacio para escribir */
-  --tridactyl-cmdl-fg: #999999; /* Color del texto */
+  --tridactyl-cmdl-bg: #101010;
+  --tridactyl-cmdl-fg: #999999;
   --tridactyl-cmdl-line-height: 1.6;
   --tridactyl-cmdl-font-family: Hack Nerd Font;
-  --tridactyl-cmdl-font-size: var(--tridactyl-small-font-size);
+  --tridactyl-cmdl-font-size: 8px;
 
   /* Completions */
   --tridactyl-cmplt-option-height: 1.4em;
-  --tridactyl-cmplt-fg: #999999; /* Color de las opciones */
-  --tridactyl-cmplt-bg: #0b0b09; /* Fondo de las opciones */
-  --tridactyl-cmplt-font-size: var(--tridactyl-small-font-size);
+  --tridactyl-cmplt-fg: #999999;
+  --tridactyl-cmplt-bg: #09090b; /* Fondo cambiado como pediste */
+  --tridactyl-cmplt-font-size: 8px;
   --tridactyl-cmplt-font-family: Hack Nerd Font;
   --tridactyl-cmplt-border-top: 0;
 
   /* Header */
-  --tridactyl-header-first-bg: #282828; /* Fondo del título del menú */
-  --tridactyl-header-second-bg: #282828; /* Fondo del título del menú */
-  --tridactyl-header-third-bg: #282828; /* Fondo del título del menú */
-  --tridactyl-header-font-size: 9px; /* Ajusta el tamaño de la fuente del título */
-  --tridactyl-header-font-weight: normal; /* Quita la negrita */
-  --tridactyl-header-color: var(--default-foreground); /* Color del texto del título */
+  --tridactyl-header-first-bg: #282828;
+  --tridactyl-header-second-bg: #282828;
+  --tridactyl-header-third-bg: #282828;
+  --tridactyl-header-font-size: 9px; /* Tamaño de letra del título */
+  --tridactyl-header-font-weight: normal;
+  --tridactyl-header-color: var(--default-foreground);
 
   /* URL Style */
   --tridactyl-url-text-decoration: none;
-  --tridactyl-url-fg: #777777; /* Gris más oscuro para los enlaces */
+  --tridactyl-url-fg: #777777;
   --tridactyl-url-bg: none;
   --tridactyl-url-cursor: pointer;
 
