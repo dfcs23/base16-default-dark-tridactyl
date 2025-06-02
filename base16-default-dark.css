@@ -16,15 +16,15 @@
   /* Generic */
   --tridactyl-font-family: Hack Nerd Font;
   --tridactyl-font-family-sans: Hack Nerd Font;
-  --tridactyl-font-size: 8px;
-  --tridactyl-small-font-size: 8px;
+  --tridactyl-font-size: 9px;
+  --tridactyl-small-font-size: 9px;
   --tridactyl-bg: var(--default-background);
   --tridactyl-fg: var(--default-comment);
   --tridactyl-scrollbar-color: auto;
 
   /* Mode Indicator */
   --tridactyl-status-font-family: var(--tridactyl-font-family);
-  --tridactyl-status-font-size: 8px;
+  --tridactyl-status-font-size: 9px;
   --tridactyl-status-bg: none;
   --tridactyl-status-fg: var(--default-foreground);
   --tridactyl-status-border: 0;
@@ -32,7 +32,7 @@
 
   /* Hint Character Tags */
   --tridactyl-hintspan-font-family: var(--tridactyl-font-family);
-  --tridactyl-hintspan-font-size: 8px;
+  --tridactyl-hintspan-font-size: 9px;
   --tridactyl-hintspan-font-weight: bold;
   --tridactyl-hintspan-fg: var(--default-black);
   --tridactyl-hintspan-bg: var(--default-green);
@@ -56,13 +56,13 @@
   --tridactyl-cmdl-fg: #999999;
   --tridactyl-cmdl-line-height: 1.6;
   --tridactyl-cmdl-font-family: Hack Nerd Font;
-  --tridactyl-cmdl-font-size: 8px;
+  --tridactyl-cmdl-font-size: 9px;
 
   /* Completions */
   --tridactyl-cmplt-option-height: 1.4em;
   --tridactyl-cmplt-fg: #999999;
-  --tridactyl-cmplt-bg: #09090b; /* Fondo cambiado como pediste */
-  --tridactyl-cmplt-font-size: 8px;
+  --tridactyl-cmplt-bg: #09090b;
+  --tridactyl-cmplt-font-size: 9px;
   --tridactyl-cmplt-font-family: Hack Nerd Font;
   --tridactyl-cmplt-border-top: 0;
 
@@ -70,7 +70,7 @@
   --tridactyl-header-first-bg: #282828;
   --tridactyl-header-second-bg: #282828;
   --tridactyl-header-third-bg: #282828;
-  --tridactyl-header-font-size: 9px; /* Tamaño de letra del título */
+  --tridactyl-header-font-size: 9px;
   --tridactyl-header-font-weight: normal;
   --tridactyl-header-color: var(--default-foreground);
 
