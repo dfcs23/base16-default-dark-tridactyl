@@ -76,7 +76,7 @@
 
   /* URL Style */
   --tridactyl-url-text-decoration: none;
-  --tridactyl-url-fg: var(--default-green);
+  --tridactyl-url-fg: #777777; /* Gris más oscuro para los enlaces */
   --tridactyl-url-bg: none;
   --tridactyl-url-cursor: pointer;
 
